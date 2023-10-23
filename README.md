@@ -34,7 +34,7 @@ Sua responsabilidade será implementar tanto o HTML quanto o CSS. Para isso, tem
 - Estude sobre seletores que podem te ajudar, como o nth-child().
 - Saber e entender Flex Box será de grande ajuda.
 - Adicionar uma classe em todas as tags pode acabar confundindo, para isso, o conceito de elemento pai, filhos e irmãos pode ajudar.
-- Crie classes intuitivas, isso irá te ajudar e facilitaqr no momento da estilização.
+- Crie classes intuitivas, isso irá facilitar na hora da estilização.
 
 ## 🎨 Design Sugerido
 
