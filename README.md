@@ -9,16 +9,16 @@ Vamos reviver os velhos tempos do Orkut? O Orkut era um site de relacionamentos 
   - Mostrar email do usuário logado;
   - input de pesquisa
 - Coluna com foto de perfil:
-  - Nessa coluna, teremos algumas informações do usuário como nome, sexo, estado civil e cidade/estadi;
-  - Menu para adicionar como amigo;
+  - Aqui teremos algumas informações do usuário como nome, sexo, estado civil e cidade/estado;
+  - Botão para adicionar como amigo;
   - Botão de perfil, recados, fotos, vídeos e depoimentos;
-- Coluna com a história de reconhecimentos do usuário:
+- Coluna com a história e reconhecimentos do usuário:
   - Título com o nome do usuário;
   - Quantidade de recados, fotos, vídeos, fãs;
   - Nível confiável, legal e sexy;
   - Aba social, com informações como relacionamento, aniversário, idade, interesses no orkut, quem sou eu, filhos, etnia, animas de estimação, cidade natal, página web e paixões. Fique a vontade para adicionar demais tópicos!
 - Amigos adicionados e comunidades que participa:
-  - Card com a quantidade de amigos, cada amigo adicionado deve possuir uma foto, nome e quantidade de amigos adicionados.
+  - Card com a quantidade de amigos, onde cada amigo adicionado deve possuir uma foto, nome e quantidade de amigos que ele possui adicionado.
   - Card com a quantidade de comunidades que participa, onde cada comunidade deve ter uma foto, nome e quantidade de membros participantes.
 
 ## 💻 Setup do projeto
