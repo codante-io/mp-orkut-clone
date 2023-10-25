@@ -9,7 +9,7 @@ Vamos reviver os velhos tempos do Orkut? O Orkut era um site de relacionamentos 
   - Mostrar email do usuário logado;
   - input de pesquisa
 - Coluna com foto de perfil:
-  - Aqui teremos algumas informações do usuário como nome, sexo, estado civil e cidade/estado;
+  - Aqui teremos algumas informações do usuário como nome, estado civil e cidade/estado;
   - Botão para adicionar como amigo;
   - Botão de perfil, recados, fotos, vídeos e depoimentos;
 - Coluna com a história e reconhecimentos do usuário:
